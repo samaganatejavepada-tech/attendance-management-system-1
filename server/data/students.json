@@ -1,0 +1,47 @@
+[
+  {
+    "id": "STU001",
+    "name": "Rahul Kumar",
+    "rollNo": "23CS001",
+    "department": "CSE",
+    "year": "3rd Year",
+    "section": "A",
+    "email": "student@pscmr.edu.in"
+  },
+  {
+    "id": "STU002",
+    "name": "Priya Sharma",
+    "rollNo": "23CS002",
+    "department": "CSE",
+    "year": "3rd Year",
+    "section": "A",
+    "email": "priya@pscmr.edu.in"
+  },
+  {
+    "id": "STU003",
+    "name": "Arjun Reddy",
+    "rollNo": "23CS003",
+    "department": "CSE",
+    "year": "3rd Year",
+    "section": "A",
+    "email": "arjun@pscmr.edu.in"
+  },
+  {
+    "id": "STU004",
+    "name": "Sneha Rao",
+    "rollNo": "23CS004",
+    "department": "CSE",
+    "year": "3rd Year",
+    "section": "A",
+    "email": "sneha@pscmr.edu.in"
+  },
+  {
+    "id": "STU005",
+    "name": "Kiran Kumar",
+    "rollNo": "23CS005",
+    "department": "CSE",
+    "year": "3rd Year",
+    "section": "A",
+    "email": "kiran@pscmr.edu.in"
+  }
+]

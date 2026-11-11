@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ATT-3f7900e9",
+    "studentId": "STU001",
+    "subjectId": "SUB001",
+    "facultyId": "USR-ADMIN",
+    "date": "2026-11-11",
+    "status": "Present",
+    "updatedAt": "2026-11-11T03:19:25.985Z"
+  },
+  {
+    "id": "ATT-989ae217",
+    "studentId": "STU002",
+    "subjectId": "SUB001",
+    "facultyId": "USR-ADMIN",
+    "date": "2026-11-11",
+    "status": "Present",
+    "updatedAt": "2026-11-11T03:19:25.985Z"
+  },
+  {
+    "id": "ATT-4ed52b95",
+    "studentId": "STU003",
+    "subjectId": "SUB001",
+    "facultyId": "USR-ADMIN",
+    "date": "2026-11-11",
+    "status": "Present",
+    "updatedAt": "2026-11-11T03:19:25.985Z"
+  },
+  {
+    "id": "ATT-c807adc9",
+    "studentId": "STU004",
+    "subjectId": "SUB001",
+    "facultyId": "USR-ADMIN",
+    "date": "2026-11-11",
+    "status": "Present",
+    "updatedAt": "2026-11-11T03:19:25.985Z"
+  },
+  {
+    "id": "ATT-741148a3",
+    "studentId": "STU005",
+    "subjectId": "SUB001",
+    "facultyId": "USR-ADMIN",
+    "date": "2026-11-11",
+    "status": "Present",
+    "updatedAt": "2026-11-11T03:19:25.985Z"
+  }
+]

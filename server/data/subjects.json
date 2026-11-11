@@ -1,0 +1,34 @@
+[
+  {
+    "id": "SUB001",
+    "name": "Full Stack Development",
+    "shortName": "FSD",
+    "code": "FSD301",
+    "department": "CSE",
+    "facultyId": "FAC001"
+  },
+  {
+    "id": "SUB002",
+    "name": "Data Warehousing and Data Mining",
+    "shortName": "DWDM",
+    "code": "DWDM301",
+    "department": "CSE",
+    "facultyId": "FAC001"
+  },
+  {
+    "id": "SUB003",
+    "name": "Mobile Application Development",
+    "shortName": "Flutter",
+    "code": "FLUTTER301",
+    "department": "CSE",
+    "facultyId": "FAC001"
+  },
+  {
+    "id": "SUB004",
+    "name": "Software Design",
+    "shortName": "Design",
+    "code": "DESIGN301",
+    "department": "CSE",
+    "facultyId": "FAC001"
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": "USR-ADMIN",
+    "name": "System Administrator",
+    "email": "admin@pscmr.edu.in",
+    "role": "admin",
+    "passwordHash": "$2a$10$0sRmnMj7RtmWiW59ugoPBO4u0njoZ8xY/9gkVu.7gdC3wKBQBB.Nu"
+  },
+  {
+    "id": "USR-FACULTY",
+    "name": "Faculty Demo",
+    "email": "faculty@pscmr.edu.in",
+    "role": "faculty",
+    "facultyId": "FAC001",
+    "passwordHash": "$2a$10$vt4SsUivWzCuCQZiRYAi8eww15dxco1HQunQyLyo5wUQaCPHlGhjK"
+  },
+  {
+    "id": "USR-STUDENT",
+    "name": "Rahul Kumar",
+    "email": "student@pscmr.edu.in",
+    "role": "student",
+    "studentId": "STU001",
+    "passwordHash": "$2a$10$1fBZ1U24shzKMB6xoQhYlOyYG.AqeWVeoWEpVavLM8k7Q3.UgAmvG"
+  }
+]

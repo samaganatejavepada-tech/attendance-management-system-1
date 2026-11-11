@@ -1,0 +1,14 @@
+[
+  {
+    "id": "FAC001",
+    "name": "Faculty Demo",
+    "department": "CSE",
+    "email": "faculty@pscmr.edu.in",
+    "subjects": [
+      "FSD",
+      "DWDM",
+      "Flutter",
+      "Design"
+    ]
+  }
+]
